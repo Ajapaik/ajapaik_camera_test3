@@ -1,0 +1,37 @@
+{
+	"@metadata": {
+		"authors": [
+			"Jrttrw"
+		]
+	},
+	"albumList-navItem1": "Lähim",
+	"albumList-navItem2": "Kaart",
+	"albumList-navItem3": "Nähtavus",
+	"homePage-NavItem1": "Avaleht",
+	"homePage-NavItem2": "Lemmikuks märgitud",
+	"homePage-NavItem3": "Pildista",
+	"homePage-NavItem4": "Sündmused",
+	"homePage-NavItem5": "Logi sisse",
+	"homePage-NavItem6": "Logi välja",
+	"imageMapScreen-appbarTitle": "Kaart",
+	"localFileSelect-option1": "Fotopank",
+	"localFileSelect-option2": "Kaamera",
+	"login-appBarTitle": "Logi sisse",
+	"map-appbarTitle": "Kaart",
+	"projectList-navItem1": "Fotopank",
+	"projectList-navItem2": "Pildista",
+	"projectList-navItem3": "Logi sisse",
+	"projectList-navItem4": "Logi välja",
+	"photoManipulation-appbarTitle": "Ülepildistamise rakendus",
+	"rePhoto-appbarTitle": "Ülepildistamise rakendus",
+	"rePhoto-popupMenu1": "Jaga",
+	"rePhoto-popupMenu2": "Teave",
+	"rePhoto-popupMenu3": "TIFY-demo",
+	"rePhoto-popupMenu4": "Kaart",
+	"rePhoto-popupMenu5": "Seadistused",
+	"settings-appbarTitle": "Seadistused",
+	"settings-cardItem1": "Vaheta keelt",
+	"settings-cardItem2": "Vaheta keskkonda",
+	"settings-helperText": "Täiendavad seadistused",
+	"settings-showMapTile": "Näita kaarti"
+}
