@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"GolyatGeri",
 			"Mirzali"
 		]
 	},
@@ -8,6 +9,7 @@
 	"albumList-navItem2": "Xerita",
 	"albumList-navItem3": "Dereceyê asayışi",
 	"homePage-NavItem1": "Keye",
+	"homePage-NavItem2": "rıdiyaye",
 	"homePage-NavItem3": "Resım bıgêre",
 	"homePage-NavItem4": "Fealiyeti",
 	"homePage-NavItem5": "Cıkewtış",
@@ -21,11 +23,16 @@
 	"projectList-navItem2": "Resım bıgêre",
 	"projectList-navItem3": "Cıkewtış",
 	"projectList-navItem4": "Veciyayış",
+	"photoManipulation-appbarTitle": "Aplikasyona Rephotoy",
+	"rePhoto-appbarTitle": "Aplikasyona Rephotoy",
 	"rePhoto-popupMenu1": "Vıla ke",
 	"rePhoto-popupMenu2": "Melumat",
+	"rePhoto-popupMenu3": "TIFY-demo",
 	"rePhoto-popupMenu4": "Xerita",
 	"rePhoto-popupMenu5": "Eyari",
 	"settings-appbarTitle": "Eyari",
 	"settings-cardItem1": "Zıwani bıvurne",
+	"settings-cardItem2": "Mecray bıvurnên",
+	"settings-helperText": "Raverberde eyari",
 	"settings-showMapTile": "Xerita bımocne"
 }
