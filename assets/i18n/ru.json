@@ -1,12 +1,15 @@
 {
 	"@metadata": {
 		"authors": [
+			"Dirruw'o",
 			"Kareyac",
 			"Артём 13327"
 		]
 	},
 	"albumList-navItem2": "Карта",
 	"albumList-navItem3": "Видимость",
+	"homePage-NavItem1": "В начало",
+	"homePage-NavItem2": "Нравится",
 	"homePage-NavItem3": "Сфотографировать",
 	"homePage-NavItem4": "События",
 	"homePage-NavItem5": "Войти",
