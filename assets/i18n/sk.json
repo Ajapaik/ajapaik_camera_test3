@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Oujon"
+		]
+	},
+	"albumList-navItem1": "Najbližšie",
+	"albumList-navItem2": "Mapa",
+	"albumList-navItem3": "Viditeľnosť",
+	"homePage-NavItem1": "Domov",
+	"homePage-NavItem2": "Páčil",
+	"homePage-NavItem3": "Odfotiť",
+	"homePage-NavItem4": "Udalosti",
+	"homePage-NavItem5": "Prihlásenie",
+	"homePage-NavItem6": "Odhlásenie",
+	"imageMapScreen-appbarTitle": "Mapa",
+	"localFileSelect-option1": "Fotokniha"
+}
