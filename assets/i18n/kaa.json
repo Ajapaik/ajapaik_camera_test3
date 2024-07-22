@@ -1,0 +1,37 @@
+{
+	"@metadata": {
+		"authors": [
+			"Inabat Allanova"
+		]
+	},
+	"albumList-navItem1": "Eń jaqın",
+	"albumList-navItem2": "Karta",
+	"albumList-navItem3": "Kórinis",
+	"homePage-NavItem1": "Bas bet",
+	"homePage-NavItem2": "Unadı",
+	"homePage-NavItem3": "Súwretke alıw",
+	"homePage-NavItem4": "Ilajlar",
+	"homePage-NavItem5": "Kiriw",
+	"homePage-NavItem6": "Shıǵıw",
+	"imageMapScreen-appbarTitle": "Karta",
+	"localFileSelect-option1": "Foto kitapxana",
+	"localFileSelect-option2": "Kamera",
+	"login-appBarTitle": "Kiriw",
+	"map-appbarTitle": "Karta",
+	"projectList-navItem1": "Kitapxana",
+	"projectList-navItem2": "Súwretke alıw",
+	"projectList-navItem3": "Kiriw",
+	"projectList-navItem4": "Shıǵıw",
+	"photoManipulation-appbarTitle": "Rephoto prilojeniesi",
+	"rePhoto-appbarTitle": "Rephoto prilojeniesi",
+	"rePhoto-popupMenu1": "Bólisiw",
+	"rePhoto-popupMenu2": "Maǵlıwmat",
+	"rePhoto-popupMenu3": "TIFY-demo",
+	"rePhoto-popupMenu4": "Karta",
+	"rePhoto-popupMenu5": "Sazlawlar",
+	"settings-appbarTitle": "Sazlawlar",
+	"settings-cardItem1": "Tildi ózgertiw",
+	"settings-cardItem2": "Ortalıqtı ózgertiw",
+	"settings-helperText": "Keńeytilgen sazlawlar",
+	"settings-showMapTile": "Kartanı kórsetiw"
+}
