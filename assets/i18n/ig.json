@@ -1,0 +1,37 @@
+{
+	"@metadata": {
+		"authors": [
+			"Goodymeraj"
+		]
+	},
+	"albumList-navItem1": "Nke kacha nso",
+	"albumList-navItem2": "Maapụ",
+	"albumList-navItem3": "Ọdịdị nhụta",
+	"homePage-NavItem1": "Ụlọ",
+	"homePage-NavItem2": "Ndị I hụrụ n'anya",
+	"homePage-NavItem3": "See foto",
+	"homePage-NavItem4": "Ihe omume gasị",
+	"homePage-NavItem5": "Banye",
+	"homePage-NavItem6": "Pụta",
+	"imageMapScreen-appbarTitle": "Maapụ",
+	"localFileSelect-option1": "Ọbá foto",
+	"localFileSelect-option2": "Ígwèfoto",
+	"login-appBarTitle": "Banye",
+	"map-appbarTitle": "Maapụ",
+	"projectList-navItem1": "Ọbá akwụkwọ",
+	"projectList-navItem2": "See foto",
+	"projectList-navItem3": "Banye",
+	"projectList-navItem4": "Pụta",
+	"photoManipulation-appbarTitle": "Ngwá refoto",
+	"rePhoto-appbarTitle": "Ngwá refoto",
+	"rePhoto-popupMenu1": "Kesaa",
+	"rePhoto-popupMenu2": "Ozi",
+	"rePhoto-popupMenu3": "Mmegosi TIFY",
+	"rePhoto-popupMenu4": "Maapụ",
+	"rePhoto-popupMenu5": "Nhọrọ ntọala gasị",
+	"settings-appbarTitle": "Nhọrọ ntọala gasị",
+	"settings-cardItem1": "Gbanwee asụsụ",
+	"settings-cardItem2": "Gbanwee gburugburu",
+	"settings-helperText": "Nhọrọ ntọala dị elu",
+	"settings-showMapTile": "Gosi maapụ"
+}
